@@ -16,7 +16,7 @@ import {
   ImageWrapper,
   Main,
   MintSection,
-} from './styles';
+} from '../styles/styles';
 
 export default function Home() {
   const zero = BigNumber.from(0);
